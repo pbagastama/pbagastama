@@ -1,15 +1,24 @@
-# 👋 Hi, I'm Bagas Pratama (@pbagastama)
+## 👋 Hi, I'm Bagas Pratama (@pbagastama)
 
-I'm a **Frontend Developer** passionate about building fast, scalable, and user-focused web applications.  
-Currently exploring **AI integrations**, **CMS automation**, and **modern web ecosystems**.
+I'm a **Frontend Developer** passionate about building fast, scalable, and beautiful web experiences with React & Next.js. Turning ideas into seamless, high-impact digital products.
+
+---
+
+### 🚀 What I Do
+- Build responsive and dynamic web applications  
+- Craft UI/UX using Tailwind CSS, MUI, and custom design systems  
+- Integrate APIs (REST & GraphQL) with CMS like Strapi and Laravel  
+- Optimize performance, SEO, and analytics (Umami, GA, Splitbee)
 
 ---
 
 ### 💻 Tech Stack
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, MUI  
-- **Backend & CMS:** Node.js, Strapi, Laravel, Supabase  
-- **Tools:** GitLab CI/CD, Vercel, Netlify, Umami Analytics  
-- **Design:** Figma, Canva, ShadCN/UI  
+- **Frontend:** React.js, Redux, Next JS, Gatsby JS, Tailwind, MUI, SCSS, TypeScript
+- **Backend:** Laravel, PHP, Node.js (basic), API integration
+- **CMS:** Wordpress, Strapi, Magento, Adobe Experience Manager (AEM)
+- **Database:** MySQL, Postgre, Firebase, Supabase
+- **Tools:** GitLab CI/CD, Docker, Netlify, Vercel, Postman, Figma, Adobe XD
+- **Soft Skills:** Communication, Mentoring, Leadership
 
 ---
 
@@ -19,8 +28,7 @@ Open to work & collaboration in:
 - Product Engineering
 - Web Development
 
-🌐 [pbagastama.netlify.app](https://pbagastama.netlify.app)  
-💼 [LinkedIn](https://linkedin.com/in/pbagastama)
+🌐 **Portfolio:** [pbagastama.netlify.app](https://pbagastama.netlify.app)  
 
 
 <!---
