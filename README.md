@@ -20,14 +20,6 @@ I'm a **Frontend Developer** passionate about building fast, scalable, and beaut
 - **Tools:** GitLab CI/CD, Docker, Netlify, Vercel, Postman, Figma, Adobe XD
 - **Soft Skills:** Communication, Mentoring, Leadership
 
----
-
-### 🤝 Let’s Collaborate
-Open to work & collaboration in:
-- Frontend Development
-- Product Engineering
-- Web Development
-
 🌐 **Portfolio:** [pbagastama.netlify.app](https://pbagastama.netlify.app)  
 
 
